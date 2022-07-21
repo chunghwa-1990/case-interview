@@ -11,9 +11,13 @@ HashMap常规情况下以数组形式存储，存储位置根据index = hash % n
 ### 说一下HashMap的putVal()的流程
 
 1、先判断是否未初始化
+
 2、根据index = hash & (n - 1)，判断存储位置的value是否为null,如果是直接进行存储
+
 3、根据key值判断是否有相同的key，相同则覆盖，反之链表+1
+
 4、如果链表大于8，则调用treeifyBin()进行红黑树操作
+
 说明：
 index = hash & (n - 1) 其实就是在比较hash，hash相同，则index相同，必然会发生hash碰撞
 treefyBin()里有对数组大于等于64的判断
