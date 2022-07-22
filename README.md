@@ -8,6 +8,7 @@
 
 ###  Java
 - [HashMap](java/HashMap.md)
+- [ThreadLocal](java/ThreadLocal.md)
 
 ### MySQL
 - [索引](mysql/index.md)
