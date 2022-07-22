@@ -8,3 +8,6 @@
 
 ###  Java
 - [HashMap](java/HashMap.md)
+
+### MySQL
+- [索引](mysql/index.md)
