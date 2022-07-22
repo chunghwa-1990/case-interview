@@ -1,7 +1,7 @@
 
 ## ThreadLocal
 
-### 你能说一下 ThreadLocal 吗
+### 你能说一下 ThreadLocal 吗？
 
 ThreadLocal提供线程局部变量，每个线程都有自己的副本变量，多个个线程之间互不干扰。
 
