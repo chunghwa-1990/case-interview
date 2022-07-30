@@ -6,9 +6,12 @@
 
 <code>[case-interview](https://github.com/chunghwa-2018/case-interview)</code> 是根据自己的学习路线和面试经历，总结了的面试题，主要是应对自己以后找工作而做的备忘笔记。另外，也希望能对目前从事Java开发，或者将来打算从事Java方向的朋友，提供一些面试经验。
 
-###  Java
+### Java
 - [HashMap](java/HashMap.md)
 - [ThreadLocal](java/ThreadLocal.md)
 
 ### MySQL
 - [索引](mysql/index.md)
+
+### Redis
+- [Redis](redis/redis.md)
