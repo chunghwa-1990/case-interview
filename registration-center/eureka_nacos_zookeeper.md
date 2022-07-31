@@ -15,7 +15,7 @@ Eureka 客户端通过注解和参数配置的方式，嵌入在客户端的程�
 
 **服务治理机制：**
 
-<image src="https://github.com/chunghwa-2018/case-interview/tree/main/registration-center/images/Eureka-Service-Governance-Mechanism.png" width="600px">
+<image src="./images/Eureka-Service-Governance-Mechanism.png" width="600px">
 
 ### Nacos
 
