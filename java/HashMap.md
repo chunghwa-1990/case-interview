@@ -12,7 +12,7 @@ HashMap常规情况下以数组形式存储，存储位置根据index = hash % n
 
 1、先判断是否未初始化
 
-2、根据index = hash & (n - 1)，判断存储位置的value是否为null,如果是直接进行存储
+2、根据index = hash & (n - 1)，判断存储位置的value是否为null，如果是直接进行存储
 
 3、根据key值判断是否有相同的key，相同则覆盖，反之链表+1
 
